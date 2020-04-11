@@ -165,7 +165,7 @@ body {
 
 .card-title-reg {
   font-weight: 400;
-
+  font-size: 24px;
 }
 
 .card-tag {
@@ -218,7 +218,7 @@ body {
 }
 
 .ingredints {
-  font-size: 18px;
+  font-size: 17px;
   line-height: 21px;
   color: #8C8C8C;
 }
